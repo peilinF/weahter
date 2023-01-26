@@ -2,7 +2,7 @@ import Gaode
 import WeChat
 
 # 微信id列表 给谁发加谁
-wx_id = ["oTHVk6HT36zza7ettY_Z9RnNIJoM"]
+wx_id = ["oTHVk6HT36zza7ettY_Z9RnNIJoM","oTHVk6BpKArCbX3Zi6EHq504vf_s"]
 # 模板消息id
 template_id = 'gCmzvR82QGq2eCsiDmE3uqyTSi5kCMcNd6Dw3YUTWSM'
 
