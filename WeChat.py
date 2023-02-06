@@ -7,8 +7,8 @@ import re
 appID = 'wx8ae3c85f16bdcad3'
 # 安全秘钥
 appsecret = '73df2ec0f636b3910104d3e43215038e'
-province  = '新疆维吾尔族自治区'
-city = '乌鲁木齐市'
+province  = '北京'
+city = '北京市'
 # 获取access_token
 def getAccessToken():
     r1 = requests.get(
