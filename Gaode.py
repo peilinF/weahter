@@ -7,7 +7,7 @@ key = 'xxxxxxxxxxxxxxxxxxxxxxx'
 # adcode 城市编码表下载：https://lbs.amap.com/api/webservice/download
 # 江夏区 420115
 # 大同城区 140213
-city = '101130101'
+city = '101010100'
 
 weather_url =  f'https://devapi.qweather.com/v7/weather/3d?location={city}&key=e47eeb840cac4e21a6e477d7d373b619'
 def getWeather():
