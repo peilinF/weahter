@@ -83,7 +83,7 @@ def sendMessage(weatherData, wx_id, template_id):
                 'color': '#00BFFF'
             },
             'togetherDays': {
-                'value': int(re.search('(?P<days>.*?) days', str(today.__sub__(togetherDay))).group('days')) + 1,
+                'value': int(re.search('(?P<days>.*?) days', str(today.__sub__(togetherDay))).group('days')) ,
                 'color': '#FF4500'
             },
             'hua': {  # 情话
